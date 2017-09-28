@@ -4,6 +4,10 @@ If you find a bug please try to reproduce the bug and record your steps on how t
 
 There is no menu to exit the game except at the beginning you will need to endtask in task manager until next patch.
 
+# Savefolder
+
+'C:\Users\*your username*\AppData\LocalLow\BipolarGames'
+
 # Keybindings  
 W - Move Up  
 A - Move Left  
